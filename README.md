@@ -4,7 +4,7 @@
 
 **Giảng viên:** TS. Nguyễn Tuấn Linh
 
-**Môn học:** Đảm bảo chất lượng và kiểm  - TEE443
+**Môn học:** Đảm bảo chất lượng và kiểm thử phần mềm  - TEE443
 
 **Họ và tên:** Nguyễn Văn Thứ
 
@@ -16,7 +16,7 @@
 
 ---
 
-## NỘI DUNG BÀI TIỂU LUẬN ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ 
+## NỘI DUNG BÀI TIỂU LUẬN ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ PHẦN MỀM
 
 ***Link Youtube:*** 
 
