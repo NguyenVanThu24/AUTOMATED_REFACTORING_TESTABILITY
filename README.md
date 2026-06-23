@@ -1,6 +1,6 @@
-# <p align="center">BÀI TIÊU LUẬN MÔN ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ</p>
+## <p align="center">BÀI TIÊU LUẬN: ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ PHẦN MỀM</p>
 
-# <p align="center">AUTOMATED_REFACTORING_FOR_SOFTWARE_TESTABILITY</p>
+## <p align="center">AUTOMATED_REFACTORING_FOR_SOFTWARE_TESTABILITY</p>
 
 **Giảng viên:** TS. Nguyễn Tuấn Linh
 
@@ -18,7 +18,7 @@
 
 ## NỘI DUNG BÀI TIỂU LUẬN ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ 
 
-***Link Youtube:*** https://youtu.be/mKATV8ZKENM
+***Link Youtube:*** 
 
 # <p align="center">***THE END***</p>
 
