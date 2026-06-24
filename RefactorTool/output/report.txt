@@ -1,0 +1,5 @@
+DEPENDENCY REPORT
+
+- SQLPaymentGateway
+- EmailService
+- Logger
