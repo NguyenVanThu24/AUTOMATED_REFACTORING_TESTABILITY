@@ -18,7 +18,7 @@
 
 ## NỘI DUNG BÀI TIỂU LUẬN ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ PHẦN MỀM
 
-***Link Youtube:*** 
+***Link Youtube:*** https://youtu.be/CGG228xvArU
 
 # <p align="center">***THE END***</p>
 
