@@ -1,0 +1,7 @@
+Sinh viên: Nguyễn Văn Thứ
+MSSV: K225480106062
+Lớp: K58KTP
+Môn học: Đảm bảo chất lượng và kiểm thử phần mềm.
+
+Link Youtube: https://youtu.be/CGG228xvArU
+Link Github: https://github.com/NguyenVanThu24/AUTOMATED_REFACTORING_TESTABILITY
